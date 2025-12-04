@@ -39,8 +39,8 @@ function App() {
               </span>
             </div>
             <div className="mx-auto max-w-2xl mt-6 pb-4">
-              <h2 className="text-6xl sm:text-7xl lg:text-8xl font-light tracking-wider bg-gradient-to-r from-orange-500 via-pink-500 to-blue-600 bg-clip-text text-transparent drop-shadow-[0_0_30px_rgba(168,85,247,0.5)]">
-                JARMIN
+              <h2 className="text-6xl sm:text-7xl lg:text-8xl font-light tracking-wider bg-gradient-to-r from-orange-500 via-pink-500 to-blue-600 bg-clip-text text-transparent drop-shadow-[0_0_30px_rgba(168,85,247,0.5)] uppercase">
+                primeml
               </h2>
             </div>
             <h1 className="pb-4 text-5xl  eading-tight tracking-tight text-transparent drop-shadow-2xl sm:text-6xl lg:text-7xl">
@@ -81,7 +81,7 @@ function App() {
                         }}
                       />
                       <p className="text-xs lg:text-sm text-white/80 font-medium whitespace-nowrap">
-                        Superintelligence Labs
+                        Super intelligence Labs
                       </p>
                     </div>
                     <div className="flex w-[calc(50%-0.75rem)] lg:w-auto flex-col items-center justify-center gap-2">
@@ -107,7 +107,7 @@ function App() {
                         height={200}
                         decoding="async"
                         className="h-auto object-contain w-36 sm:w-48 lg:w-[18rem]"
-                        src="/logos/lockheed_martin_logo.svg"
+                        src="https://www.jarmin.ai/logos/lockheed_martin_logo.svg"
                         style={{
                           filter:
                             "brightness(0) invert(85%) sepia(0%) saturate(0%) hue-rotate(136deg) brightness(107%) contrast(96%)"
@@ -211,7 +211,7 @@ function App() {
                     }}
                   />
                   <span className="pointer-events-none absolute inset-[2px] rounded-full bg-black/90" />
-                  <span className="relative">Hire Jarmin</span>
+                  <span className="relative">Hire Primeml</span>
                 </button>
               </div>
             </div>
@@ -220,7 +220,7 @@ function App() {
       </section>
       <footer className="relative py-8">
         <div className="text-center">
-          <p className="text-sm text-gray-400">© 2025 Jarmin, Inc.</p>
+          <p className="text-sm text-gray-400">© 2025 Primeml, Inc.</p>
         </div>
       </footer>
       <div
