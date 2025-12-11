@@ -168,7 +168,7 @@ function App() {
                 </p>
                 <p>
                   <span className="font-bold italic">
-                    At Jarmin, we're building a system that thinks like exceptional
+                    At Prime ML, we're building a system that thinks like exceptional
                     ML engineers: decomposing ambiguous requirements, architecting
                     robust systems, making informed tradeoffs, and shipping
                     production pipelines. Built by a team with the right experience
@@ -181,7 +181,7 @@ function App() {
                   It's one where any team with a meaningful problem can create
                   exceptional AI capabilities.
                 </p>
-                <p>We're building that future. We’re building Jarmin.</p>
+                <p>We're building that future. We’re building Prime ML.</p>
               </div>
             </article>
           </div>
